@@ -3,7 +3,7 @@
 
   /*
    * The stacked column chart has two axes (`x` and `y`). By default the stacked
-   * column expects continious scale for the `y` axis and a discrete scale for
+   * column expects continuous scale for the `y` axis and a discrete scale for
    * the `x` axis. The stacked column has the following default features:
    *
    *##### Features

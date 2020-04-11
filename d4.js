@@ -1994,7 +1994,7 @@ var d4;
 
   /*
    * The stacked column chart has two axes (`x` and `y`). By default the stacked
-   * column expects continious scale for the `y` axis and a discrete scale for
+   * column expects continuous scale for the `y` axis and a discrete scale for
    * the `x` axis. The stacked column has the following default features:
    *
    *##### Features
@@ -2139,7 +2139,7 @@ var d4;
   'use strict';
   /*
    * The stacked row chart has two axes (`x` and `y`). By default the stacked
-   * row expects continious scale for the `x` axis and a discrete scale for
+   * row expects continuous scale for the `x` axis and a discrete scale for
    * the `y` axis. The stacked row has the following default features:
    *
    *##### Features
@@ -2448,7 +2448,7 @@ var d4;
    * if you have used think-cell.
    *
    * The waterfall chart has two axes (`x` and `y`). By default the stacked
-   * column expects continious scale for the `y` axis and a discrete scale for
+   * column expects continuous scale for the `y` axis and a discrete scale for
    * the `x` axis. This will render the waterfall chart vertically. However,
    * if you swap the scale types then the waterfall will render horizontally.
    *

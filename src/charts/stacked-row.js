@@ -2,7 +2,7 @@
   'use strict';
   /*
    * The stacked row chart has two axes (`x` and `y`). By default the stacked
-   * row expects continious scale for the `x` axis and a discrete scale for
+   * row expects continuous scale for the `x` axis and a discrete scale for
    * the `y` axis. The stacked row has the following default features:
    *
    *##### Features

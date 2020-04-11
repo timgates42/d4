@@ -148,7 +148,7 @@
    * if you have used think-cell.
    *
    * The waterfall chart has two axes (`x` and `y`). By default the stacked
-   * column expects continious scale for the `y` axis and a discrete scale for
+   * column expects continuous scale for the `y` axis and a discrete scale for
    * the `x` axis. This will render the waterfall chart vertically. However,
    * if you swap the scale types then the waterfall will render horizontally.
    *
